@@ -1,0 +1,47 @@
+{
+  "artifacts": [
+    {
+      "path": "entry.lua",
+      "sha256": "b66b54a92d633397bb62e058d7867283f07e745c35657c5f8091ca6011d4ffef"
+    },
+    {
+      "path": "modules/bootstrap.lua",
+      "sha256": "abf9cbb4d5a1495768c2f68343fe36021514152fdd93d0097f60274a9a15b55d"
+    },
+    {
+      "path": "modules/games/catalog.lua",
+      "sha256": "d1d3baa827743204942a9ac4c1cb17890c27f927c9545e6ec9ae868540a652de"
+    },
+    {
+      "path": "modules/games/roblox_is_unbreakable/init.lua",
+      "sha256": "f361b33713f7fb72af3a4d619d723103ae939aab0eb0afdb1a5b5bfb95db1604"
+    },
+    {
+      "path": "modules/games/roblox_is_unbreakable/manifest.lua",
+      "sha256": "fd77cac918d400f336880fb3249259ea0e47ea3779dc9abf2bfa037396ff88b3"
+    },
+    {
+      "path": "modules/shared/auth.lua",
+      "sha256": "eeea6f6e683eb59eff1dee6b4b36309ab40c51518e6255b028354e20745ce065"
+    },
+    {
+      "path": "modules/shared/experience_registry.lua",
+      "sha256": "976b3eac8504dd593704137132f3a64d88ad2dce880051604d0e6565b5b870cd"
+    },
+    {
+      "path": "modules/shared/project_config.lua",
+      "sha256": "4d8ef69bd5114fd6036307475d4a7b897fd89ae8a48e449ef1dbec33ab0462d2"
+    },
+    {
+      "path": "modules/shared/ui.lua",
+      "sha256": "4f3f8f22bc94afabb47f3e69f2b7de3552f40476e26c4887ae6dfaaacd305ae2"
+    }
+  ],
+  "profile": "Weak",
+  "schema_version": 1,
+  "source_revision": "67fbb4ac757c7db99ac41ca3f16e21f9eab7f309",
+  "target": "LuaU",
+  "tool": "Prometheus",
+  "tool_version": "0.3.1",
+  "version": "v0.1.2"
+}
